@@ -4349,7 +4349,7 @@ img.u-pull-left {
     height           : calc(1.875 * var(--space));
     width            : calc(1.875 * var(--space));
     border-radius    : 50%;
-    background-color : black;
+    background-image : linear-gradient(#128C7E, #25D366);
     transition       : all .3s;
     position         : relative;
 }
